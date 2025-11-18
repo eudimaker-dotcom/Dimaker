@@ -1,0 +1,7 @@
+{
+  "name": "MathSolver AI",
+  "description": "An intelligent math problem solver using OCR and Gemini AI to provide step-by-step solutions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
